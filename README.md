@@ -1,2 +1,2 @@
-# DersOrtalama
-Ders ortalaması hesaplama 
+# PROJECTS
+
