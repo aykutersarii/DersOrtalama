@@ -1,0 +1,2 @@
+# DersOrtalama
+Ders ortalaması hesaplama 
